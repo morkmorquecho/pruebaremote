@@ -1,11 +1,11 @@
 [{
-    "name": "Beef liver",
+    "nombre": "Beef liver",
     "usda_id": "13326",
-    "fat": 53000,
-    "calories": 1.91,
-    "proteins": 291000,
-    "carbohydrates": 51000,
-    "serving": 100,
+    "grasa": 53000,
+    "calorias": 1.91,
+    "proteinas": 291000,
+    "carbohidratos": 51000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 60,
       "Iron": 65,
@@ -44,13 +44,13 @@
     }
   },
   {
-    "name": "Chicken liver",
+    "nombre": "Chicken liver",
     "usda_id": "05027",
-    "fat": 65000,
-    "calories": 1.67,
-    "proteins": 245000,
-    "carbohydrates": 9000,
-    "serving": 100,
+    "grasa": 65000,
+    "calorias": 1.67,
+    "proteinas": 245000,
+    "carbohidratos": 9000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 110,
       "Iron": 116,
@@ -88,26 +88,26 @@
     }
   },
   {
-    "name": "Cod liver oil",
+    "nombre": "Cod liver oil",
     "usda_id": "04589",
-    "fat": 1000000,
-    "calories": 9.02,
-    "proteins": 0,
-    "carbohydrates": 0,
-    "serving": 100,
+    "grasa": 1000000,
+    "calorias": 9.02,
+    "proteinas": 0,
+    "carbohidratos": 0,
+    "gramos": 100,
     "nutrients": {
       "Vitamin A": 300,
       "Iodine": 4
     }
   },
   {
-    "name": "Tuna",
+    "nombre": "Tuna",
     "usda_id": "15117",
-    "fat": 81000,
-    "calories": 1.86,
-    "proteins": 265000,
-    "carbohydrates": 0,
-    "serving": 150,
+    "grasa": 81000,
+    "calorias": 1.86,
+    "proteinas": 265000,
+    "carbohidratos": 0,
+    "gramos": 150,
     "nutrients": {
       "Calcium": 40,
       "Iron": 7,
@@ -141,13 +141,13 @@
     }
   },
   {
-    "name": "Goat cheese",
+    "nombre": "Goat cheese",
     "usda_id": "01157",
-    "fat": 356000,
-    "calories": 4.52,
-    "proteins": 305000,
-    "carbohydrates": 22000,
-    "serving": 50,
+    "grasa": 356000,
+    "calorias": 4.52,
+    "proteinas": 305000,
+    "carbohidratos": 22000,
+    "gramos": 50,
     "nutrients": {
       "Calcium": 8950,
       "Iron": 19,
@@ -183,13 +183,13 @@
     }
   },
   {
-    "name": "Mackerel",
+    "nombre": "Mackerel",
     "usda_id": "15046",
-    "fat": 178000,
-    "calories": 2.62,
-    "proteins": 239000,
-    "carbohydrates": 0,
-    "serving": 150,
+    "grasa": 178000,
+    "calorias": 2.62,
+    "proteinas": 239000,
+    "carbohidratos": 0,
+    "gramos": 150,
     "nutrients": {
       "Calcium": 150,
       "Iron": 16,
@@ -221,13 +221,13 @@
     }
   },
   {
-    "name": "Squid",
+    "nombre": "Squid",
     "usda_id": "15175",
-    "fat": 75000,
-    "calories": 1.75,
-    "proteins": 179000,
-    "carbohydrates": 78000,
-    "serving": 150,
+    "grasa": 75000,
+    "calorias": 1.75,
+    "proteinas": 179000,
+    "carbohidratos": 78000,
+    "gramos": 150,
     "nutrients": {
       "Calcium": 390,
       "Iron": 10,
@@ -260,13 +260,13 @@
     }
   },
   {
-    "name": "Feta cheese",
+    "nombre": "Feta cheese",
     "usda_id": "01019",
-    "fat": 213000,
-    "calories": 2.64,
-    "proteins": 142000,
-    "carbohydrates": 41000,
-    "serving": 50,
+    "grasa": 213000,
+    "calorias": 2.64,
+    "proteinas": 142000,
+    "carbohidratos": 41000,
+    "gramos": 50,
     "nutrients": {
       "Calcium": 4930,
       "Iron": 7,
@@ -299,13 +299,13 @@
     }
   },
   {
-    "name": "Salmon",
+    "nombre": "Salmon",
     "usda_id": "15076",
-    "fat": 134000,
-    "calories": 2.31,
-    "proteins": 257000,
-    "carbohydrates": 0,
-    "serving": 150,
+    "grasa": 134000,
+    "calorias": 2.31,
+    "proteinas": 257000,
+    "carbohidratos": 0,
+    "gramos": 150,
     "nutrients": {
       "Calcium": 280,
       "Iron": 9,
@@ -338,13 +338,13 @@
     }
   },
   {
-    "name": "Salmon smoked",
+    "nombre": "Salmon smoked",
     "usda_id": "15077",
-    "fat": 43000,
-    "calories": 1.17,
-    "proteins": 183000,
-    "carbohydrates": 0,
-    "serving": 100,
+    "grasa": 43000,
+    "calorias": 1.17,
+    "proteinas": 183000,
+    "carbohidratos": 0,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 110,
       "Iron": 9,
@@ -378,12 +378,12 @@
     }
   },
   {
-    "name": "Cow milk",
-    "fat": 33000,
-    "calories": 0.61,
-    "proteins": 32000,
-    "carbohydrates": 48000,
-    "serving": 200,
+    "nombre": "Cow milk",
+    "grasa": 33000,
+    "calorias": 0.61,
+    "proteinas": 32000,
+    "carbohidratos": 48000,
+    "gramos": 200,
     "nutrients": {
       "Calcium": 1130,
       "Potassium": 1320,
@@ -413,13 +413,13 @@
     }
   },
   {
-    "name": "Butter",
+    "nombre": "Butter",
     "usda_id": "01145",
-    "fat": 811000,
-    "calories": 7.17,
-    "proteins": 9000,
-    "carbohydrates": 1000,
-    "serving": 15,
+    "grasa": 811000,
+    "calorias": 7.17,
+    "proteinas": 9000,
+    "carbohidratos": 1000,
+    "gramos": 15,
     "nutrients": {
       "Calcium": 240,
       "Potassium": 240,
@@ -449,13 +449,13 @@
     }
   },
   {
-    "name": "Trout",
+    "nombre": "Trout",
     "usda_id": "15114",
-    "fat": 85000,
-    "calories": 1.9,
-    "proteins": 266000,
-    "carbohydrates": 0,
-    "serving": 150,
+    "grasa": 85000,
+    "calorias": 1.9,
+    "proteinas": 266000,
+    "carbohidratos": 0,
+    "gramos": 150,
     "nutrients": {
       "Calcium": 550,
       "Iron": 19,
@@ -488,12 +488,12 @@
     }
   },
   {
-    "name": "Egg",
-    "fat": 95000,
-    "calories": 1.43,
-    "proteins": 126000,
-    "carbohydrates": 7000,
-    "serving": 56,
+    "nombre": "Egg",
+    "grasa": 95000,
+    "calorias": 1.43,
+    "proteinas": 126000,
+    "carbohidratos": 7000,
+    "gramos": 56,
     "nutrients": {
       "Calcium": 560,
       "Iron": 18,
@@ -531,12 +531,12 @@
     }
   },
   {
-    "name": "Chicken",
-    "fat": 32000,
-    "calories": 1.57,
-    "proteins": 321000,
-    "carbohydrates": 0,
-    "serving": 150,
+    "nombre": "Chicken",
+    "grasa": 32000,
+    "calorias": 1.57,
+    "proteinas": 321000,
+    "carbohidratos": 0,
+    "gramos": 150,
     "nutrients": {
       "Calcium": 60,
       "Iron": 5,
@@ -571,13 +571,13 @@
     }
   },
   {
-    "name": "Carrot",
+    "nombre": "Carrot",
     "usda_id": "11124",
-    "fat": 2000,
-    "calories": 0.41,
-    "proteins": 9000,
-    "carbohydrates": 96000,
-    "serving": 100,
+    "grasa": 2000,
+    "calorias": 0.41,
+    "proteinas": 9000,
+    "carbohidratos": 96000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 330,
       "Iron": 3,
@@ -611,13 +611,13 @@
     }
   },
   {
-    "name": "Sweet potato",
+    "nombre": "Sweet potato",
     "usda_id": "11508",
-    "fat": 2000,
-    "calories": 0.9,
-    "proteins": 20000,
-    "carbohydrates": 207000,
-    "serving": 100,
+    "grasa": 2000,
+    "calorias": 0.9,
+    "proteinas": 20000,
+    "carbohidratos": 207000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 380,
       "Iron": 7,
@@ -652,13 +652,13 @@
     }
   },
   {
-    "name": "Grapefruit",
+    "nombre": "Grapefruit",
     "usda_id": "09112",
-    "fat": 1000,
-    "calories": 0.42,
-    "proteins": 8000,
-    "carbohydrates": 107000,
-    "serving": 100,
+    "grasa": 1000,
+    "calorias": 0.42,
+    "proteinas": 8000,
+    "carbohidratos": 107000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 220,
       "Iron": 1,
@@ -687,13 +687,13 @@
     }
   },
   {
-    "name": "Peanut butter",
+    "nombre": "Peanut butter",
     "usda_id": "16397",
-    "fat": 514000,
-    "calories": 5.98,
-    "proteins": 222000,
-    "carbohydrates": 223000,
-    "serving": 30,
+    "grasa": 514000,
+    "calorias": 5.98,
+    "proteinas": 222000,
+    "carbohidratos": 223000,
+    "gramos": 30,
     "nutrients": {
       "Calcium": 490,
       "Iron": 17,
@@ -728,13 +728,13 @@
     }
   },
   {
-    "name": "Seaweed Kelp",
+    "nombre": "Seaweed Kelp",
     "usda_id": "11445",
-    "fat": 6000,
-    "calories": 0.43,
-    "proteins": 17000,
-    "carbohydrates": 96000,
-    "serving": 0.5,
+    "grasa": 6000,
+    "calorias": 0.43,
+    "proteinas": 17000,
+    "carbohidratos": 96000,
+    "gramos": 0.5,
     "nutrients": {
       "Calcium": 1680,
       "Iron": 29,
@@ -769,12 +769,12 @@
     }
   },
   {
-    "name": "Brewer yeast",
-    "fat": 0,
-    "calories": 3.9,
-    "proteins": 550000,
-    "carbohydrates": 450000,
-    "serving": 30,
+    "nombre": "Brewer yeast",
+    "grasa": 0,
+    "calorias": 3.9,
+    "proteinas": 550000,
+    "carbohidratos": 450000,
+    "gramos": 30,
     "nutrients": {
       "Chromium": 1,
       "Vitamin B1": 153,
@@ -784,12 +784,12 @@
     }
   },
   {
-    "name": "Pork",
-    "fat": 143000,
-    "calories": 2.32,
-    "proteins": 242000,
-    "carbohydrates": 0,
-    "serving": 150,
+    "nombre": "Pork",
+    "grasa": 143000,
+    "calorias": 2.32,
+    "proteinas": 242000,
+    "carbohidratos": 0,
+    "gramos": 150,
     "nutrients": {
       "Calcium": 270,
       "Iron": 16,
@@ -825,12 +825,12 @@
     }
   },
   {
-    "name": "Sunflower seeds",
-    "fat": 515000,
-    "calories": 5.84,
-    "proteins": 208000,
-    "carbohydrates": 200000,
-    "serving": 30,
+    "nombre": "Sunflower seeds",
+    "grasa": 515000,
+    "calorias": 5.84,
+    "proteinas": 208000,
+    "carbohidratos": 200000,
+    "gramos": 30,
     "nutrients": {
       "Calcium": 780,
       "Iron": 53,
@@ -864,12 +864,12 @@
     }
   },
   {
-    "name": "Wheat bread",
-    "fat": 32000,
-    "calories": 2.67,
-    "proteins": 107000,
-    "carbohydrates": 487000,
-    "serving": 30,
+    "nombre": "Wheat bread",
+    "grasa": 32000,
+    "calorias": 2.67,
+    "proteinas": 107000,
+    "carbohidratos": 487000,
+    "gramos": 30,
     "nutrients": {
       "Calcium": 1330,
       "Iron": 35,
@@ -896,12 +896,12 @@
     }
   },
   {
-    "name": "Cashews",
-    "fat": 439000,
-    "calories": 5.53,
-    "proteins": 182000,
-    "carbohydrates": 302000,
-    "serving": 30,
+    "nombre": "Cashews",
+    "grasa": 439000,
+    "calorias": 5.53,
+    "proteinas": 182000,
+    "carbohidratos": 302000,
+    "gramos": 30,
     "nutrients": {
       "Calcium": 370,
       "Iron": 67,
@@ -934,12 +934,12 @@
     }
   },
   {
-    "name": "Beans",
-    "fat": 52000,
-    "calories": 1.55,
-    "proteins": 55000,
-    "carbohydrates": 216000,
-    "serving": 100,
+    "nombre": "Beans",
+    "grasa": 52000,
+    "calorias": 1.55,
+    "proteinas": 55000,
+    "carbohidratos": 216000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 610,
       "Iron": 20,
@@ -970,12 +970,12 @@
     }
   },
   {
-    "name": "Almonds",
-    "fat": 499000,
-    "calories": 5.79,
-    "proteins": 212000,
-    "carbohydrates": 216000,
-    "serving": 30,
+    "nombre": "Almonds",
+    "grasa": 499000,
+    "calorias": 5.79,
+    "proteinas": 212000,
+    "carbohidratos": 216000,
+    "gramos": 30,
     "nutrients": {
       "Calcium": 2690,
       "Iron": 37,
@@ -1011,12 +1011,12 @@
     }
   },
   {
-    "name": "Broccoli",
-    "fat": 4000,
-    "calories": 0.34,
-    "proteins": 28000,
-    "carbohydrates": 66000,
-    "serving": 100,
+    "nombre": "Broccoli",
+    "grasa": 4000,
+    "calorias": 0.34,
+    "proteinas": 28000,
+    "carbohidratos": 66000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 470,
       "Iron": 7,
@@ -1051,12 +1051,12 @@
     }
   },
   {
-    "name": "Peanuts",
-    "fat": 497000,
-    "calories": 5.87,
-    "proteins": 244000,
-    "carbohydrates": 213000,
-    "serving": 30,
+    "nombre": "Peanuts",
+    "grasa": 497000,
+    "calorias": 5.87,
+    "proteinas": 244000,
+    "carbohidratos": 213000,
+    "gramos": 30,
     "nutrients": {
       "Calcium": 580,
       "Iron": 16,
@@ -1092,12 +1092,12 @@
     }
   },
   {
-    "name": "Beef",
-    "fat": 62000,
-    "calories": 1.88,
-    "proteins": 309000,
-    "carbohydrates": 0,
-    "serving": 150,
+    "nombre": "Beef",
+    "grasa": 62000,
+    "calorias": 1.88,
+    "proteinas": 309000,
+    "carbohidratos": 0,
+    "gramos": 150,
     "nutrients": {
       "Calcium": 220,
       "Iron": 19,
@@ -1129,12 +1129,12 @@
     }
   },
   {
-    "name": "Avocado",
-    "fat": 147000,
-    "calories": 1.6,
-    "proteins": 20000,
-    "carbohydrates": 85000,
-    "serving": 100,
+    "nombre": "Avocado",
+    "grasa": 147000,
+    "calorias": 1.6,
+    "proteinas": 20000,
+    "carbohidratos": 85000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 120,
       "Iron": 6,
@@ -1171,12 +1171,12 @@
     }
   },
   {
-    "name": "Bananas",
-    "fat": 3000,
-    "calories": 0.89,
-    "proteins": 11000,
-    "carbohydrates": 228000,
-    "serving": 150,
+    "nombre": "Bananas",
+    "grasa": 3000,
+    "calorias": 0.89,
+    "proteinas": 11000,
+    "carbohidratos": 228000,
+    "gramos": 150,
     "nutrients": {
       "Calcium": 50,
       "Iron": 3,
@@ -1210,12 +1210,12 @@
     }
   },
   {
-    "name": "Walnuts",
-    "fat": 652000,
-    "calories": 6.54,
-    "proteins": 152000,
-    "carbohydrates": 137000,
-    "serving": 30,
+    "nombre": "Walnuts",
+    "grasa": 652000,
+    "calorias": 6.54,
+    "proteinas": 152000,
+    "carbohidratos": 137000,
+    "gramos": 30,
     "nutrients": {
       "Calcium": 980,
       "Iron": 29,
@@ -1251,12 +1251,12 @@
     }
   },
   {
-    "name": "Hazelnut",
-    "fat": 608000,
-    "calories": 6.28,
-    "proteins": 150000,
-    "carbohydrates": 167000,
-    "serving": 30,
+    "nombre": "Hazelnut",
+    "grasa": 608000,
+    "calorias": 6.28,
+    "proteinas": 150000,
+    "carbohidratos": 167000,
+    "gramos": 30,
     "nutrients": {
       "Calcium": 1140,
       "Iron": 47,
@@ -1290,12 +1290,12 @@
     }
   },
   {
-    "name": "Strawberries",
-    "fat": 3000,
-    "calories": 0.32,
-    "proteins": 7000,
-    "carbohydrates": 77000,
-    "serving": 100,
+    "nombre": "Strawberries",
+    "grasa": 3000,
+    "calorias": 0.32,
+    "proteinas": 7000,
+    "carbohidratos": 77000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 160,
       "Iron": 4,
@@ -1326,12 +1326,12 @@
     }
   },
   {
-    "name": "Spinach",
-    "fat": 4000,
-    "calories": 0.23,
-    "proteins": 29000,
-    "carbohydrates": 36000,
-    "serving": 100,
+    "nombre": "Spinach",
+    "grasa": 4000,
+    "calorias": 0.23,
+    "proteinas": 29000,
+    "carbohidratos": 36000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 990,
       "Iron": 27,
@@ -1366,12 +1366,12 @@
     }
   },
   {
-    "name": "Chia",
-    "fat": 307000,
-    "calories": 4.86,
-    "proteins": 165000,
-    "carbohydrates": 421000,
-    "serving": 15,
+    "nombre": "Chia",
+    "grasa": 307000,
+    "calorias": 4.86,
+    "proteinas": 165000,
+    "carbohidratos": 421000,
+    "gramos": 15,
     "nutrients": {
       "Calcium": 6310,
       "Iron": 77,
@@ -1403,12 +1403,12 @@
     }
   },
   {
-    "name": "Sesame seeds",
-    "fat": 497000,
-    "calories": 5.73,
-    "proteins": 177000,
-    "carbohydrates": 235000,
-    "serving": 15,
+    "nombre": "Sesame seeds",
+    "grasa": 497000,
+    "calorias": 5.73,
+    "proteinas": 177000,
+    "carbohidratos": 235000,
+    "gramos": 15,
     "nutrients": {
       "Calcium": 9750,
       "Iron": 146,
@@ -1441,12 +1441,12 @@
     }
   },
   {
-    "name": "Pumpkin seeds",
-    "fat": 491000,
-    "calories": 5.59,
-    "proteins": 302000,
-    "carbohydrates": 107000,
-    "serving": 30,
+    "nombre": "Pumpkin seeds",
+    "grasa": 491000,
+    "calorias": 5.59,
+    "proteinas": 302000,
+    "carbohidratos": 107000,
+    "gramos": 30,
     "nutrients": {
       "Calcium": 460,
       "Iron": 88,
@@ -1484,12 +1484,12 @@
     }
   },
   {
-    "name": "Corn",
-    "fat": 15000,
-    "calories": 0.96,
-    "proteins": 34000,
-    "carbohydrates": 210000,
-    "serving": 100,
+    "nombre": "Corn",
+    "grasa": 15000,
+    "calorias": 0.96,
+    "proteinas": 34000,
+    "carbohidratos": 210000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 30,
       "Iron": 5,
@@ -1523,12 +1523,12 @@
     }
   },
   {
-    "name": "Chickpeas",
-    "fat": 26000,
-    "calories": 1.64,
-    "proteins": 89000,
-    "carbohydrates": 274000,
-    "serving": 100,
+    "nombre": "Chickpeas",
+    "grasa": 26000,
+    "calorias": 1.64,
+    "proteinas": 89000,
+    "carbohidratos": 274000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 490,
       "Iron": 29,
@@ -1563,12 +1563,12 @@
     }
   },
   {
-    "name": "Pumpkin",
-    "fat": 1000,
-    "calories": 0.2,
-    "proteins": 7000,
-    "carbohydrates": 49000,
-    "serving": 100,
+    "nombre": "Pumpkin",
+    "grasa": 1000,
+    "calorias": 0.2,
+    "proteinas": 7000,
+    "carbohidratos": 49000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 150,
       "Iron": 6,
@@ -1601,12 +1601,12 @@
     }
   },
   {
-    "name": "Melon",
-    "fat": 1000,
-    "calories": 0.36,
-    "proteins": 5000,
-    "carbohydrates": 91000,
-    "serving": 150,
+    "nombre": "Melon",
+    "grasa": 1000,
+    "calorias": 0.36,
+    "proteinas": 5000,
+    "carbohidratos": 91000,
+    "gramos": 150,
     "nutrients": {
       "Calcium": 60,
       "Iron": 2,
@@ -1636,12 +1636,12 @@
     }
   },
   {
-    "name": "Watermelon",
-    "fat": 2000,
-    "calories": 0.3,
-    "proteins": 6000,
-    "carbohydrates": 76000,
-    "serving": 200,
+    "nombre": "Watermelon",
+    "grasa": 2000,
+    "calorias": 0.3,
+    "proteinas": 6000,
+    "carbohidratos": 76000,
+    "gramos": 200,
     "nutrients": {
       "Calcium": 70,
       "Iron": 2,
@@ -1671,12 +1671,12 @@
     }
   },
   {
-    "name": "Watermelon seeds",
-    "fat": 474000,
-    "calories": 5.57,
-    "proteins": 283000,
-    "carbohydrates": 153000,
-    "serving": 15,
+    "nombre": "Watermelon seeds",
+    "grasa": 474000,
+    "calorias": 5.57,
+    "proteinas": 283000,
+    "carbohidratos": 153000,
+    "gramos": 15,
     "nutrients": {
       "Calcium": 540,
       "Iron": 73,
@@ -1706,12 +1706,12 @@
     }
   },
   {
-    "name": "Pepper",
-    "fat": 4000,
-    "calories": 0.32,
-    "proteins": 17000,
-    "carbohydrates": 67000,
-    "serving": 10,
+    "nombre": "Pepper",
+    "grasa": 4000,
+    "calorias": 0.32,
+    "proteinas": 17000,
+    "carbohidratos": 67000,
+    "gramos": 10,
     "nutrients": {
       "Calcium": 110,
       "Iron": 9,
@@ -1737,12 +1737,12 @@
     }
   },
   {
-    "name": "Pepper black",
-    "fat": 33000,
-    "calories": 2.51,
-    "proteins": 104000,
-    "carbohydrates": 640000,
-    "serving": 2,
+    "nombre": "Pepper black",
+    "grasa": 33000,
+    "calorias": 2.51,
+    "proteinas": 104000,
+    "carbohidratos": 640000,
+    "gramos": 2,
     "nutrients": {
       "Calcium": 4430,
       "Iron": 97,
@@ -1778,12 +1778,12 @@
     }
   },
   {
-    "name": "Oregano dried",
-    "fat": 43000,
-    "calories": 2.65,
-    "proteins": 90000,
-    "carbohydrates": 689000,
-    "serving": 3,
+    "nombre": "Oregano dried",
+    "grasa": 43000,
+    "calorias": 2.65,
+    "proteinas": 90000,
+    "carbohidratos": 689000,
+    "gramos": 3,
     "nutrients": {
       "Calcium": 15970,
       "Iron": 368,
@@ -1819,12 +1819,12 @@
     }
   },
   {
-    "name": "Honey",
-    "fat": 0,
-    "calories": 3.04,
-    "proteins": 3000,
-    "carbohydrates": 824000,
-    "serving": 15,
+    "nombre": "Honey",
+    "grasa": 0,
+    "calorias": 3.04,
+    "proteinas": 3000,
+    "carbohidratos": 824000,
+    "gramos": 15,
     "nutrients": {
       "Calcium": 60,
       "Iron": 4,
@@ -1852,12 +1852,12 @@
     }
   },
   {
-    "name": "Mango",
-    "fat": 4000,
-    "calories": 0.6,
-    "proteins": 8000,
-    "carbohydrates": 150000,
-    "serving": 100,
+    "nombre": "Mango",
+    "grasa": 4000,
+    "calorias": 0.6,
+    "proteinas": 8000,
+    "carbohidratos": 150000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 110,
       "Iron": 2,
@@ -1890,12 +1890,12 @@
     }
   },
   {
-    "name": "Rosemary fresh",
-    "fat": 59000,
-    "calories": 1.31,
-    "proteins": 33000,
-    "carbohydrates": 207000,
-    "serving": 3,
+    "nombre": "Rosemary fresh",
+    "grasa": 59000,
+    "calorias": 1.31,
+    "proteinas": 33000,
+    "carbohidratos": 207000,
+    "gramos": 3,
     "nutrients": {
       "Calcium": 3170,
       "Iron": 67,
@@ -1925,12 +1925,12 @@
     }
   },
   {
-    "name": "Rosemary dried",
-    "fat": 152000,
-    "calories": 3.31,
-    "proteins": 49000,
-    "carbohydrates": 641000,
-    "serving": 3,
+    "nombre": "Rosemary dried",
+    "grasa": 152000,
+    "calorias": 3.31,
+    "proteinas": 49000,
+    "carbohidratos": 641000,
+    "gramos": 3,
     "nutrients": {
       "Calcium": 12800,
       "Iron": 293,
@@ -1952,12 +1952,12 @@
     }
   },
   {
-    "name": "Cinnamon",
-    "fat": 12000,
-    "calories": 2.47,
-    "proteins": 40000,
-    "carbohydrates": 806000,
-    "serving": 4,
+    "nombre": "Cinnamon",
+    "grasa": 12000,
+    "calorias": 2.47,
+    "proteinas": 40000,
+    "carbohidratos": 806000,
+    "gramos": 4,
     "nutrients": {
       "Calcium": 10020,
       "Iron": 83,
@@ -1992,12 +1992,12 @@
     }
   },
   {
-    "name": "Raisins",
-    "fat": 8000,
-    "calories": 4.93,
-    "proteins": 51000,
-    "carbohydrates": 1306000,
-    "serving": 50,
+    "nombre": "Raisins",
+    "grasa": 8000,
+    "calorias": 4.93,
+    "proteinas": 51000,
+    "carbohidratos": 1306000,
+    "gramos": 50,
     "nutrients": {
       "Calcium": 825,
       "Iron": 31,
@@ -2031,12 +2031,12 @@
     }
   },
   {
-    "name": "Dates",
-    "fat": 2000,
-    "calories": 2.77,
-    "proteins": 18000,
-    "carbohydrates": 750000,
-    "serving": 50,
+    "nombre": "Dates",
+    "grasa": 2000,
+    "calorias": 2.77,
+    "proteinas": 18000,
+    "carbohidratos": 750000,
+    "gramos": 50,
     "nutrients": {
       "Calcium": 640,
       "Iron": 9,
@@ -2068,12 +2068,12 @@
     }
   },
   {
-    "name": "Tomatoes",
-    "fat": 2000,
-    "calories": 0.18,
-    "proteins": 9000,
-    "carbohydrates": 39000,
-    "serving": 100,
+    "nombre": "Tomatoes",
+    "grasa": 2000,
+    "calorias": 0.18,
+    "proteinas": 9000,
+    "carbohidratos": 39000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 100,
       "Iron": 3,
@@ -2105,12 +2105,12 @@
     }
   },
   {
-    "name": "Cabbage",
-    "fat": 1000,
-    "calories": 0.25,
-    "proteins": 13000,
-    "carbohydrates": 58000,
-    "serving": 100,
+    "nombre": "Cabbage",
+    "grasa": 1000,
+    "calorias": 0.25,
+    "proteinas": 13000,
+    "carbohidratos": 58000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 400,
       "Iron": 5,
@@ -2143,12 +2143,12 @@
     }
   },
   {
-    "name": "Onion",
-    "fat": 1000,
-    "calories": 0.32,
-    "proteins": 8000,
-    "carbohydrates": 76000,
-    "serving": 50,
+    "nombre": "Onion",
+    "grasa": 1000,
+    "calorias": 0.32,
+    "proteinas": 8000,
+    "carbohidratos": 76000,
+    "gramos": 50,
     "nutrients": {
       "Calcium": 200,
       "Iron": 3,
@@ -2179,12 +2179,12 @@
     }
   },
   {
-    "name": "Turmeric ground",
-    "fat": 33000,
-    "calories": 3.12,
-    "proteins": 97000,
-    "carbohydrates": 671000,
-    "serving": 3,
+    "nombre": "Turmeric ground",
+    "grasa": 33000,
+    "calorias": 3.12,
+    "proteinas": 97000,
+    "carbohidratos": 671000,
+    "gramos": 3,
     "nutrients": {
       "Calcium": 1680,
       "Iron": 550,
@@ -2219,12 +2219,12 @@
     }
   },
   {
-    "name": "Cucumber",
-    "fat": 1000,
-    "calories": 0.15,
-    "proteins": 7000,
-    "carbohydrates": 36000,
-    "serving": 100,
+    "nombre": "Cucumber",
+    "grasa": 1000,
+    "calorias": 0.15,
+    "proteinas": 7000,
+    "carbohidratos": 36000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 160,
       "Iron": 3,
@@ -2254,12 +2254,12 @@
     }
   },
   {
-    "name": "Cauliflower",
-    "fat": 3000,
-    "calories": 0.25,
-    "proteins": 19000,
-    "carbohydrates": 50000,
-    "serving": 100,
+    "nombre": "Cauliflower",
+    "grasa": 3000,
+    "calorias": 0.25,
+    "proteinas": 19000,
+    "carbohidratos": 50000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 220,
       "Iron": 4,
@@ -2294,12 +2294,12 @@
     }
   },
   {
-    "name": "Raspberries",
-    "fat": 7000,
-    "calories": 0.52,
-    "proteins": 12000,
-    "carbohydrates": 119000,
-    "serving": 50,
+    "nombre": "Raspberries",
+    "grasa": 7000,
+    "calorias": 0.52,
+    "proteinas": 12000,
+    "carbohidratos": 119000,
+    "gramos": 50,
     "nutrients": {
       "Calcium": 250,
       "Iron": 7,
@@ -2324,12 +2324,12 @@
     }
   },
   {
-    "name": "Blueberries",
-    "fat": 3000,
-    "calories": 0.57,
-    "proteins": 7000,
-    "carbohydrates": 145000,
-    "serving": 50,
+    "nombre": "Blueberries",
+    "grasa": 3000,
+    "calorias": 0.57,
+    "proteinas": 7000,
+    "carbohidratos": 145000,
+    "gramos": 50,
     "nutrients": {
       "Calcium": 60,
       "Iron": 3,
@@ -2362,12 +2362,12 @@
     }
   },
   {
-    "name": "Lentils",
-    "fat": 4000,
-    "calories": 1.16,
-    "proteins": 90000,
-    "carbohydrates": 201000,
-    "serving": 100,
+    "nombre": "Lentils",
+    "grasa": 4000,
+    "calorias": 1.16,
+    "proteinas": 90000,
+    "carbohidratos": 201000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 190,
       "Iron": 33,
@@ -2402,12 +2402,12 @@
     }
   },
   {
-    "name": "Rice brown",
-    "fat": 8000,
-    "calories": 1.12,
-    "proteins": 23000,
-    "carbohydrates": 235000,
-    "serving": 100,
+    "nombre": "Rice brown",
+    "grasa": 8000,
+    "calorias": 1.12,
+    "proteinas": 23000,
+    "carbohidratos": 235000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 100,
       "Iron": 5,
@@ -2435,12 +2435,12 @@
     }
   },
   {
-    "name": "Pea",
-    "fat": 2000,
-    "calories": 0.84,
-    "proteins": 54000,
-    "carbohydrates": 156000,
-    "serving": 100,
+    "nombre": "Pea",
+    "grasa": 2000,
+    "calorias": 0.84,
+    "proteinas": 54000,
+    "carbohidratos": 156000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 270,
       "Iron": 15,
@@ -2476,12 +2476,12 @@
     }
   },
   {
-    "name": "Lettuce",
-    "fat": 2000,
-    "calories": 0.15,
-    "proteins": 14000,
-    "carbohydrates": 29000,
-    "serving": 100,
+    "nombre": "Lettuce",
+    "grasa": 2000,
+    "calorias": 0.15,
+    "proteinas": 14000,
+    "carbohidratos": 29000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 360,
       "Iron": 9,
@@ -2515,12 +2515,12 @@
     }
   },
   {
-    "name": "Pomegranate",
-    "fat": 12000,
-    "calories": 0.83,
-    "proteins": 17000,
-    "carbohydrates": 187000,
-    "serving": 100,
+    "nombre": "Pomegranate",
+    "grasa": 12000,
+    "calorias": 0.83,
+    "proteinas": 17000,
+    "carbohidratos": 187000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 100,
       "Iron": 3,
@@ -2545,12 +2545,12 @@
     }
   },
   {
-    "name": "Kiwi",
-    "fat": 5000,
-    "calories": 0.61,
-    "proteins": 11000,
-    "carbohydrates": 147000,
-    "serving": 100,
+    "nombre": "Kiwi",
+    "grasa": 5000,
+    "calorias": 0.61,
+    "proteinas": 11000,
+    "carbohidratos": 147000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 340,
       "Iron": 3,
@@ -2583,12 +2583,12 @@
     }
   },
   {
-    "name": "Orange",
-    "fat": 2000,
-    "calories": 0.46,
-    "proteins": 7000,
-    "carbohydrates": 115000,
-    "serving": 100,
+    "nombre": "Orange",
+    "grasa": 2000,
+    "calorias": 0.46,
+    "proteinas": 7000,
+    "carbohidratos": 115000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 430,
       "Iron": 1,
@@ -2618,12 +2618,12 @@
     }
   },
   {
-    "name": "Yogurt",
-    "fat": 33000,
-    "calories": 0.61,
-    "proteins": 35000,
-    "carbohydrates": 47000,
-    "serving": 200,
+    "nombre": "Yogurt",
+    "grasa": 33000,
+    "calorias": 0.61,
+    "proteinas": 35000,
+    "carbohidratos": 47000,
+    "gramos": 200,
     "nutrients": {
       "Calcium": 1210,
       "Iron": 1,
@@ -2656,12 +2656,12 @@
     }
   },
   {
-    "name": "Blackberries",
-    "fat": 5000,
-    "calories": 0.43,
-    "proteins": 14000,
-    "carbohydrates": 96000,
-    "serving": 50,
+    "nombre": "Blackberries",
+    "grasa": 5000,
+    "calorias": 0.43,
+    "proteinas": 14000,
+    "carbohidratos": 96000,
+    "gramos": 50,
     "nutrients": {
       "Calcium": 290,
       "Iron": 6,
@@ -2684,12 +2684,12 @@
     }
   },
   {
-    "name": "Apricot",
-    "fat": 4000,
-    "calories": 0.48,
-    "proteins": 14000,
-    "carbohydrates": 111000,
-    "serving": 100,
+    "nombre": "Apricot",
+    "grasa": 4000,
+    "calorias": 0.48,
+    "proteinas": 14000,
+    "carbohidratos": 111000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 130,
       "Iron": 4,
@@ -2722,12 +2722,12 @@
     }
   },
   {
-    "name": "Apricot dried",
-    "fat": 6000,
-    "calories": 3.2,
-    "proteins": 49000,
-    "carbohydrates": 829000,
-    "serving": 50,
+    "nombre": "Apricot dried",
+    "grasa": 6000,
+    "calorias": 3.2,
+    "proteinas": 49000,
+    "carbohidratos": 829000,
+    "gramos": 50,
     "nutrients": {
       "Calcium": 610,
       "Iron": 63,
@@ -2757,12 +2757,12 @@
     }
   },
   {
-    "name": "Peach",
-    "fat": 3000,
-    "calories": 0.39,
-    "proteins": 9000,
-    "carbohydrates": 95000,
-    "serving": 100,
+    "nombre": "Peach",
+    "grasa": 3000,
+    "calorias": 0.39,
+    "proteinas": 9000,
+    "carbohidratos": 95000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 60,
       "Iron": 3,
@@ -2793,12 +2793,12 @@
     }
   },
   {
-    "name": "Nectarines",
-    "fat": 3000,
-    "calories": 0.44,
-    "proteins": 11000,
-    "carbohydrates": 106000,
-    "serving": 100,
+    "nombre": "Nectarines",
+    "grasa": 3000,
+    "calorias": 0.44,
+    "proteinas": 11000,
+    "carbohidratos": 106000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 60,
       "Iron": 3,
@@ -2828,12 +2828,12 @@
     }
   },
   {
-    "name": "Olive oil",
-    "fat": 1000000,
-    "calories": 8.84,
-    "proteins": 0,
-    "carbohydrates": 0,
-    "serving": 15,
+    "nombre": "Olive oil",
+    "grasa": 1000000,
+    "calorias": 8.84,
+    "proteinas": 0,
+    "carbohidratos": 0,
+    "gramos": 15,
     "nutrients": {
       "Calcium": 10,
       "Iron": 6,
@@ -2845,12 +2845,12 @@
     }
   },
   {
-    "name": "Thyme",
-    "fat": 17000,
-    "calories": 1.01,
-    "proteins": 56000,
-    "carbohydrates": 245000,
-    "serving": 5,
+    "nombre": "Thyme",
+    "grasa": 17000,
+    "calorias": 1.01,
+    "proteinas": 56000,
+    "carbohidratos": 245000,
+    "gramos": 5,
     "nutrients": {
       "Calcium": 4050,
       "Iron": 175,
@@ -2877,12 +2877,12 @@
     }
   },
   {
-    "name": "Parsley",
-    "fat": 8000,
-    "calories": 0.36,
-    "proteins": 30000,
-    "carbohydrates": 63000,
-    "serving": 30,
+    "nombre": "Parsley",
+    "grasa": 8000,
+    "calorias": 0.36,
+    "proteinas": 30000,
+    "carbohidratos": 63000,
+    "gramos": 30,
     "nutrients": {
       "Calcium": 1380,
       "Iron": 62,
@@ -2917,12 +2917,12 @@
     }
   },
   {
-    "name": "Parsley freeze-dried",
-    "fat": 52000,
-    "calories": 2.71,
-    "proteins": 313000,
-    "carbohydrates": 424000,
-    "serving": 15,
+    "nombre": "Parsley freeze-dried",
+    "grasa": 52000,
+    "calorias": 2.71,
+    "proteinas": 313000,
+    "carbohidratos": 424000,
+    "gramos": 15,
     "nutrients": {
       "Calcium": 1760,
       "Iron": 539,
@@ -2947,12 +2947,12 @@
     }
   },
   {
-    "name": "Parsley dried",
-    "fat": 55000,
-    "calories": 2.92,
-    "proteins": 266000,
-    "carbohydrates": 506000,
-    "serving": 15,
+    "nombre": "Parsley dried",
+    "grasa": 55000,
+    "calorias": 2.92,
+    "proteinas": 266000,
+    "carbohidratos": 506000,
+    "gramos": 15,
     "nutrients": {
       "Calcium": 11400,
       "Iron": 220,
@@ -2990,12 +2990,12 @@
     }
   },
   {
-    "name": "Basil",
-    "fat": 6000,
-    "calories": 0.23,
-    "proteins": 32000,
-    "carbohydrates": 27000,
-    "serving": 20,
+    "nombre": "Basil",
+    "grasa": 6000,
+    "calorias": 0.23,
+    "proteinas": 32000,
+    "carbohidratos": 27000,
+    "gramos": 20,
     "nutrients": {
       "Calcium": 1770,
       "Iron": 32,
@@ -3031,12 +3031,12 @@
     }
   },
   {
-    "name": "Leek",
-    "fat": 3000,
-    "calories": 0.61,
-    "proteins": 15000,
-    "carbohydrates": 142000,
-    "serving": 50,
+    "nombre": "Leek",
+    "grasa": 3000,
+    "calorias": 0.61,
+    "proteinas": 15000,
+    "carbohidratos": 142000,
+    "gramos": 50,
     "nutrients": {
       "Calcium": 590,
       "Iron": 21,
@@ -3070,12 +3070,12 @@
     }
   },
   {
-    "name": "Mozzarella",
-    "fat": 224000,
-    "calories": 3,
-    "proteins": 222000,
-    "carbohydrates": 22000,
-    "serving": 100,
+    "nombre": "Mozzarella",
+    "grasa": 224000,
+    "calorias": 3,
+    "proteinas": 222000,
+    "carbohidratos": 22000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 5050,
       "Iron": 4,
@@ -3106,12 +3106,12 @@
     }
   },
   {
-    "name": "Green Beans",
-    "fat": 3000,
-    "calories": 0.35,
-    "proteins": 19000,
-    "carbohydrates": 79000,
-    "serving": 100,
+    "nombre": "Green Beans",
+    "grasa": 3000,
+    "calorias": 0.35,
+    "proteinas": 19000,
+    "carbohidratos": 79000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 440,
       "Iron": 7,
@@ -3146,12 +3146,12 @@
     }
   },
   {
-    "name": "Apples",
-    "fat": 2000,
-    "calories": 0.52,
-    "proteins": 3000,
-    "carbohydrates": 138000,
-    "serving": 100,
+    "nombre": "Apples",
+    "grasa": 2000,
+    "calorias": 0.52,
+    "proteinas": 3000,
+    "carbohidratos": 138000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 60,
       "Iron": 1,
@@ -3179,12 +3179,12 @@
     }
   },
   {
-    "name": "Potatoes",
-    "fat": 1000,
-    "calories": 0.93,
-    "proteins": 20000,
-    "carbohydrates": 216000,
-    "serving": 100,
+    "nombre": "Potatoes",
+    "grasa": 1000,
+    "calorias": 0.93,
+    "proteinas": 20000,
+    "carbohidratos": 216000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 50,
       "Iron": 4,
@@ -3216,12 +3216,12 @@
     }
   },
   {
-    "name": "Coconut water",
-    "fat": 2000,
-    "calories": 0.19,
-    "proteins": 7000,
-    "carbohydrates": 37000,
-    "serving": 200,
+    "nombre": "Coconut water",
+    "grasa": 2000,
+    "calorias": 0.19,
+    "proteinas": 7000,
+    "carbohidratos": 37000,
+    "gramos": 200,
     "nutrients": {
       "Calcium": 240,
       "Iron": 3,
@@ -3249,12 +3249,12 @@
     }
   },
   {
-    "name": "Coconut",
-    "fat": 645000,
-    "calories": 6.6,
-    "proteins": 69000,
-    "carbohydrates": 237000,
-    "serving": 30,
+    "nombre": "Coconut",
+    "grasa": 645000,
+    "calorias": 6.6,
+    "proteinas": 69000,
+    "carbohidratos": 237000,
+    "gramos": 30,
     "nutrients": {
       "Calcium": 260,
       "Iron": 33,
@@ -3288,12 +3288,12 @@
     }
   },
   {
-    "name": "Cod",
-    "fat": 9000,
-    "calories": 1.05,
-    "proteins": 228000,
-    "carbohydrates": 0,
-    "serving": 150,
+    "nombre": "Cod",
+    "grasa": 9000,
+    "calorias": 1.05,
+    "proteinas": 228000,
+    "carbohidratos": 0,
+    "gramos": 150,
     "nutrients": {
       "Calcium": 140,
       "Iron": 5,
@@ -3329,12 +3329,12 @@
     }
   },
   {
-    "name": "Quinoa",
-    "fat": 19000,
-    "calories": 1.2,
-    "proteins": 44000,
-    "carbohydrates": 213000,
-    "serving": 30,
+    "nombre": "Quinoa",
+    "grasa": 19000,
+    "calorias": 1.2,
+    "proteinas": 44000,
+    "carbohidratos": 213000,
+    "gramos": 30,
     "nutrients": {
       "Calcium": 170,
       "Iron": 15,
@@ -3365,12 +3365,12 @@
     }
   },
   {
-    "name": "Beets",
-    "fat": 2000,
-    "calories": 0.43,
-    "proteins": 16000,
-    "carbohydrates": 96000,
-    "serving": 100,
+    "nombre": "Beets",
+    "grasa": 2000,
+    "calorias": 0.43,
+    "proteinas": 16000,
+    "carbohidratos": 96000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 160,
       "Iron": 8,
@@ -3402,12 +3402,12 @@
     }
   },
   {
-    "name": "Pineapple",
-    "fat": 1000,
-    "calories": 0.5,
-    "proteins": 5000,
-    "carbohydrates": 131000,
-    "serving": 100,
+    "nombre": "Pineapple",
+    "grasa": 1000,
+    "calorias": 0.5,
+    "proteinas": 5000,
+    "carbohidratos": 131000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 130,
       "Iron": 3,
@@ -3440,12 +3440,12 @@
     }
   },
   {
-    "name": "Green tea",
-    "fat": 0,
-    "calories": 0,
-    "proteins": 0,
-    "carbohydrates": 0,
-    "serving": 200,
+    "nombre": "Green tea",
+    "grasa": 0,
+    "calorias": 0,
+    "proteinas": 0,
+    "carbohidratos": 0,
+    "gramos": 200,
     "nutrients": {
       "Calcium": 10,
       "Potassium": 190,
@@ -3454,12 +3454,12 @@
     }
   },
   {
-    "name": "Beer",
-    "fat": 0,
-    "calories": 0.43,
-    "proteins": 5000,
-    "carbohydrates": 36000,
-    "serving": 330,
+    "nombre": "Beer",
+    "grasa": 0,
+    "calorias": 0.43,
+    "proteinas": 5000,
+    "carbohidratos": 36000,
+    "gramos": 330,
     "nutrients": {
       "Calcium": 40,
       "Potassium": 270,
@@ -3473,12 +3473,12 @@
     }
   },
   {
-    "name": "Pear",
-    "fat": 1000,
-    "calories": 0.57,
-    "proteins": 4000,
-    "carbohydrates": 152000,
-    "serving": 100,
+    "nombre": "Pear",
+    "grasa": 1000,
+    "calorias": 0.57,
+    "proteinas": 4000,
+    "carbohidratos": 152000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 90,
       "Iron": 2,
@@ -3508,12 +3508,12 @@
     }
   },
   {
-    "name": "Grape",
-    "fat": 5000,
-    "calories": 0.57,
-    "proteins": 8000,
-    "carbohydrates": 139000,
-    "serving": 100,
+    "nombre": "Grape",
+    "grasa": 5000,
+    "calorias": 0.57,
+    "proteinas": 8000,
+    "carbohidratos": 139000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 370,
       "Iron": 3,
@@ -3531,12 +3531,12 @@
     }
   },
   {
-    "name": "Salt",
-    "fat": 0,
-    "calories": 0,
-    "proteins": 0,
-    "carbohydrates": 0,
-    "serving": 2,
+    "nombre": "Salt",
+    "grasa": 0,
+    "calorias": 0,
+    "proteinas": 0,
+    "carbohidratos": 0,
+    "gramos": 2,
     "nutrients": {
       "Calcium": 240,
       "Iron": 3,
@@ -3551,12 +3551,12 @@
     }
   },
   {
-    "name": "Wine red",
-    "fat": 0,
-    "calories": 0.85,
-    "proteins": 1000,
-    "carbohydrates": 26000,
-    "serving": 200,
+    "nombre": "Wine red",
+    "grasa": 0,
+    "calorias": 0.85,
+    "proteinas": 1000,
+    "carbohidratos": 26000,
+    "gramos": 200,
     "nutrients": {
       "Calcium": 80,
       "Iron": 5,
@@ -3577,12 +3577,12 @@
     }
   },
   {
-    "name": "Hemp seeds",
-    "fat": 488000,
-    "calories": 5.53,
-    "proteins": 316000,
-    "carbohydrates": 87000,
-    "serving": 15,
+    "nombre": "Hemp seeds",
+    "grasa": 488000,
+    "calorias": 5.53,
+    "proteinas": 316000,
+    "carbohidratos": 87000,
+    "gramos": 15,
     "nutrients": {
       "Calcium": 700,
       "Iron": 80,
@@ -3616,13 +3616,13 @@
     }
   },
   {
-    "name": "Flaxseed",
+    "nombre": "Flaxseed",
     "usda_id": "12220",
-    "fat": 422000,
-    "calories": 5.34,
-    "proteins": 183000,
-    "carbohydrates": 289000,
-    "serving": 15,
+    "grasa": 422000,
+    "calorias": 5.34,
+    "proteinas": 183000,
+    "carbohidratos": 289000,
+    "gramos": 15,
     "nutrients": {
       "Calcium": 2550,
       "Iron": 57,
@@ -3656,12 +3656,12 @@
     }
   },
   {
-    "name": "Curd",
-    "fat": 43000,
-    "calories": 0.98,
-    "proteins": 111000,
-    "carbohydrates": 34000,
-    "serving": 100,
+    "nombre": "Curd",
+    "grasa": 43000,
+    "calorias": 0.98,
+    "proteinas": 111000,
+    "carbohidratos": 34000,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 830,
       "Iron": 1,
@@ -3691,12 +3691,12 @@
     }
   },
   {
-    "name": "Spirulina",
-    "fat": 77000,
-    "calories": 2.9,
-    "proteins": 575000,
-    "carbohydrates": 239000,
-    "serving": 15,
+    "nombre": "Spirulina",
+    "grasa": 77000,
+    "calorias": 2.9,
+    "proteinas": 575000,
+    "carbohidratos": 239000,
+    "gramos": 15,
     "nutrients": {
       "Calcium": 1200,
       "Iron": 285,
@@ -3731,12 +3731,12 @@
     }
   },
   {
-    "name": "Dill",
-    "fat": 11000,
-    "calories": 0.43,
-    "proteins": 35000,
-    "carbohydrates": 70000,
-    "serving": 20,
+    "nombre": "Dill",
+    "grasa": 11000,
+    "calorias": 0.43,
+    "proteinas": 35000,
+    "carbohidratos": 70000,
+    "gramos": 20,
     "nutrients": {
       "Calcium": 2080,
       "Iron": 66,
@@ -3767,12 +3767,12 @@
     }
   },
   {
-    "name": "Seabass",
-    "fat": 26000,
-    "calories": 1.24,
-    "proteins": 236000,
-    "carbohydrates": 0,
-    "serving": 150,
+    "nombre": "Seabass",
+    "grasa": 26000,
+    "calorias": 1.24,
+    "proteinas": 236000,
+    "carbohidratos": 0,
+    "gramos": 150,
     "nutrients": {
       "Calcium": 130,
       "Iron": 4,
@@ -3802,12 +3802,12 @@
     }
   },
   {
-    "name": "Ginger",
-    "fat": 8000,
-    "calories": 0.8,
-    "proteins": 18000,
-    "carbohydrates": 178000,
-    "serving": 10,
+    "nombre": "Ginger",
+    "grasa": 8000,
+    "calorias": 0.8,
+    "proteinas": 18000,
+    "carbohidratos": 178000,
+    "gramos": 10,
     "nutrients": {
       "Calcium": 160,
       "Iron": 6,
@@ -3839,12 +3839,12 @@
     }
   },
   {
-    "name": "Garlic",
-    "fat": 7000,
-    "calories": 2.03,
-    "proteins": 86000,
-    "serving": 9,
-    "carbohydrates": 450000,
+    "nombre": "Garlic",
+    "grasa": 7000,
+    "calorias": 2.03,
+    "proteinas": 86000,
+    "gramos": 9,
+    "carbohidratos": 450000,
     "nutrients": {
       "Calcium": 2462,
       "Iron": 23,
@@ -3878,8 +3878,8 @@
     }
   },
   {
-    "name": "Baked Potatoes",
-    "serving": 150,
+    "nombre": "Baked Potatoes",
+    "gramos": 150,
     "nutrients": {
       "Calcium": 50,
       "Iron": 4,
@@ -3909,14 +3909,14 @@
       "Valine": 1100,
       "Histidine": 430
     },
-    "fat": 1000,
-    "calories": 0.93,
-    "proteins": 20000,
-    "carbohydrates": 216000
+    "grasa": 1000,
+    "calorias": 0.93,
+    "proteinas": 20000,
+    "carbohidratos": 216000
   },
   {
-    "name": "Lemon",
-    "serving": 100,
+    "nombre": "Lemon",
+    "gramos": 100,
     "nutrients": {
       "Calcium": 260,
       "Iron": 6,
@@ -3935,18 +3935,18 @@
       "Vitamin A": 0.01,
       "Vitamin E": 2
     },
-    "fat": 3000,
-    "calories": 0.29,
-    "proteins": 11000,
-    "carbohydrates": 93000
+    "grasa": 3000,
+    "calorias": 0.29,
+    "proteinas": 11000,
+    "carbohidratos": 93000
   },
   {
-    "name": "Turnips, raw",
-    "fat": 1000,
-    "calories": 0.28,
-    "proteins": 9000,
-    "carbohydrates": 64300,
-    "serving": 100,
+    "nombre": "Turnips, raw",
+    "grasa": 1000,
+    "calorias": 0.28,
+    "proteinas": 9000,
+    "carbohidratos": 64300,
+    "gramos": 100,
     "nutrients": {
       "Calcium": 300,
       "Iron": 3,
